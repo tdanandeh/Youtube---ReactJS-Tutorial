@@ -9,3 +9,8 @@ In this course, you’ll learn ReactJS step by step and how to build interactive
 لینک دوره 
 
 https://www.youtube.com/playlist?list=PLR89U6F2WVgrx0fa1Q49VlzpZX9ThaAa7
+
+
+لینک کانال
+
+https://www.youtube.com/@Code10AI
